@@ -1,0 +1,175 @@
+div .mainConatiner{
+    margin-top: 0;
+}
+#home{
+
+    	/*background-image: url('../img/homepage.jpg');*/
+        background: linear-gradient(#00000073, #00000073), url("../img/homepage.jpg");
+        height: 500px;
+        min-height: 200px;
+        margin-top: 0px;
+        /*margin-top: -6.1%;*/
+}
+
+div #homepage {
+    background: #fff;
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.big_title.text-center h1 {
+    text-align: center;
+    padding-top: 7%;
+    font-size: 56px;
+    color: #fff;
+    font-weight: 700;
+}
+.big_title.text-center p {
+    text-align: center;
+    color: #fff;
+}
+
+.dropdown{
+    margin-left:300px;
+}
+#myInput{
+    margin-left: 0;
+    margin-top: 0;
+    height: 50px;
+    width:200px;
+    border-color:white;
+    
+}
+
+.dropbtn{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 54px;
+    width:150px;
+    background-color: rgba(255, 249, 249, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.row{
+    display: flex;
+    justify-content:center;
+}
+
+#search{
+    height: 47px;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+ 
+}
+
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 54px;
+    width:140px;
+    background-color:#1976d2;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 300px;
+  
+}
+
+.deal{
+    margin-top: 100px;
+    height:300px;
+    background-color: white;
+    margin-left: 10%;
+}
+
+.product_box_found{
+    width:82%;
+    height:110px;
+    border:2px solid lightgrey;
+    margin-left:5%;
+    box-shadow: 12px 12px 20px -8px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 12px 12px 20px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 12px 20px -8px rgba(0,0,0,0.75);
+}
+
+.deal-heading{
+    margin-left:13%;
+    font-size: 25px;
+    color:rgba(0, 0, 0, 0.8)
+}
+
+.heading{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 23px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.image-premium-content{
+    display:flex;
+    justify-content: space-between;
+    width:82%;
+    margin-left: 15%;
+}
+
+.para-premium{
+    width:400px;
+    margin-right: 40px;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.product_box_memberships{
+
+    margin-top: 20px;
+    width:88%; 
+    margin-left: 22px; 
+    border: lightslategray;
+    
+}
+
+
+#image-premium{
+    width:500px;
+    height:300px; 
+}
+
+.home-ads
+{
+    background: linear-gradient(#00000073, #00000073), url("../img/terms.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 250px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.home-ads p
+{
+    margin-top: 80px;
+    font-size: 22px;
+}
+.home-ads button
+{
+    margin-top: 100px;
+}
+
+.para-btn-wrap{
+    max-width: 1130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 auto;
+}
+
+.para{
+    color:white;
+}
+
+.btn-package{
+    width: 160px;
+    height:46px;
+    border-radius: 10px;
+    font-size:20px;
+    background:linear-gradient(rgb(220,55,25),rgb(55,55,120));
+    color: white;
+}
+
+

@@ -1,0 +1,176 @@
+.solar_footer
+{
+    /*background-color: #333;*/
+     background: linear-gradient(#000000db, #000000db), url("../img/homepage.jpg");
+     margin-bottom: 0;
+     width:100%;
+     height: 337px ;
+}
+
+/* .row1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+ 
+} */
+
+.footer_divider
+{       
+
+    width:80%;
+    height: 1px;
+    background-color: rgba(255,255,255,.15);
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.footer_branding #footer_logo{
+    width:200px;
+    height:80px;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+
+.footer_content p{
+    width:350px;
+    height:40px;
+    margin-top: 10px;
+    margin-left: 150px;
+    color:rgb(206, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+/* 
+.footer_social_icon p a
+{
+    width:50px;
+    height:10px;
+} */
+
+#fb_pic{
+    border-radius: 5px;
+    margin-left: 150px;
+    width:30px;
+    height:30px;
+}
+
+#twitter_pic{
+    border-radius: 5px;
+    margin-left: 4px;
+    width:30px;
+    height:30px; 
+}
+
+#linkedin_pic{
+    border-radius: 5px;
+    margin-left: 4px;
+    width:30px;
+    height:30px;  
+}
+
+.footer_middle{
+    margin-left: 0px;
+ 
+
+    
+}
+
+.footer_title{
+   margin-top: 45px;
+   margin-left: 80px;
+   color: white;
+   font-size: 23px;
+
+}
+
+.footer_links .list{
+    margin-left: 50px;
+}
+
+#about-ft{
+    color:white;
+    text-decoration: none;
+    font-size:18px ;
+    
+}
+
+#contact-ft{
+    color:white;
+    text-decoration: none;
+    font-size:18px ;
+  
+}
+
+#privacy-ft{
+    color:white;
+    text-decoration: none;
+    font-size:18px ;
+    
+}
+
+#terms-ft{
+    color:white;
+    text-decoration: none;
+    font-size:18px ;
+}
+.footer{
+    display: flex;
+    justify-content:start;
+}
+
+.footer_title_contact{
+    margin-top: 45px;
+    margin-left:200px;
+    color: white;
+    font-size: 23px;
+}
+
+/* .footer-last{
+    margin-left: 200px;
+} */
+
+
+.footer_icon{
+    margin-left: 170px;
+  
+
+}
+
+#contact-ft1{
+    color:white;
+    text-decoration: none;
+}
+
+#email-ft1{
+    color:white;
+    text-decoration: none;
+}
+.bottom_divider
+{       
+
+    width:80%;
+    height: 1px;
+    background-color: rgba(255,255,255,.15);
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright{
+    color:white;
+    margin-left: 140px;
+}
+
+.designed{
+    color:white;
+    margin-right: 140px;
+}
+
+#besticoder{
+    color:#1976d2;
+}
